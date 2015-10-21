@@ -19,7 +19,7 @@
 .jumbotron {
 	padding: 50px 30px 50px 30px;
 	margin: 0px auto;
-    background: seagreen;
+    background: mediumseagreen;
 	color: floralwhite;
 }
 
@@ -90,7 +90,7 @@ body{
 }
 
 .navbar-static-top {
-    background-color: #212121;
+    background-color: seagreen;
     margin-bottom: 5px;
 }
 
