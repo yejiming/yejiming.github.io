@@ -19,7 +19,7 @@
 .jumbotron {
 	padding: 50px 30px 50px 30px;
 	margin: 0px auto;
-    background: mediumseagreen;
+    background: #00AAAA;
 	color: floralwhite;
 }
 
@@ -35,7 +35,8 @@ body{
 }
 
 #main-nav {
-    margin-left: 1px;
+    margin-left: 0px;
+    padding: 0px 0px;
 }
 
 #main-nav.nav-tabs.nav-stacked > li > a {
@@ -90,7 +91,7 @@ body{
 }
 
 .navbar-static-top {
-    background-color: seagreen;
+    background-color: #008888;
     margin-bottom: 5px;
 }
 
